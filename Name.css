@@ -1,0 +1,27 @@
+body{
+	background-color:#8cdba0;
+}
+#a1{
+	color:#071f0d;
+	font-size: 100%;
+}
+#val1{
+	font-size: 200%;
+	opacity:0;
+}
+#val1:hover{
+	opacity:1;
+}
+#val2{
+	font-size: 200%;
+	opacity:0;
+}
+#val2:hover{
+	opacity:1;
+}
+#first{
+	font-size: 200%;
+}
+#a2{
+	rrrrbackground-color:#3cb7f0;
+}
